@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZefiqTheProgrammer
 - 👀 I’m interested in ... Gaming
 - 🌱 I’m currently learning ... Coding
-- 💞️ I’m looking to collaborate on ... Non
+- 💞️ I’m looking to collaborate on ... Nothing 
 - 📫 How to reach me ... Discord
 
 <!---
